@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "464237849947",
+    "project_id": "materialcalculator-e82da",
+    "storage_bucket": "materialcalculator-e82da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464237849947:android:1156ccdd19059521f23e7e",
+        "android_client_info": {
+          "package_name": "com.example.materialcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464237849947-bbo9bc4rnjvssg83b7ad8illl85gev7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0b0asTsrzpwXCNUSzP_2bHpvH8MVGIiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464237849947-bbo9bc4rnjvssg83b7ad8illl85gev7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
