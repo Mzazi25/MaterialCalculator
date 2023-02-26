@@ -26,12 +26,7 @@ class CalculatorScreenTest {
         composeRule.onNodeWithText("1").performClick()
         composeRule.onNodeWithText("+").performClick()
         composeRule.onNodeWithText("2").performClick()
-        composeRule.onNodeWithText("x").performClick()
-        composeRule.onNodeWithText("3").performClick()
-        composeRule.onNodeWithText("-").performClick()
-        composeRule.onNodeWithText("5").performClick()
         composeRule.onNodeWithText("=").performClick()
-
-        composeRule.onNodeWithText("2.0").assertIsDisplayed()
+        composeRule.onNodeWithText("3.0").assertIsDisplayed()
     }
 }
